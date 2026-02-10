@@ -96,7 +96,7 @@ A sleek, elegant, and fully functional e-commerce website for an online mobile s
 7. **Pixel 8** - $799
    - 8GB RAM | 256GB Storage | Premium Design
 
-8. **OnePlus 12R** - $449
+8. **OnePlus 12R** - $459
    - 8GB RAM | 128GB Storage | 120Hz Display
 
 ## 💻 Technical Details
